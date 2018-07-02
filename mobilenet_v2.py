@@ -1,5 +1,5 @@
 # Created by github/Gustavz
-# MobileNetV2 Implementation in Keras + TensorFlow backend
+# MobileNetV2 Implementation in Keras
 # Paper: https://arxiv.org/abs/1801.04381
 
 # python 2 compability
